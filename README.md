@@ -1,13 +1,6 @@
-# Getting Started with currency-converter React App
+## Курсы валют 
 
-Use node version 16.14.2
+JS, AXIOS
 
-## About project
+## https://sergio1811x.github.io/currency_converter/
 
-This is a simple currency-converter application using third-party API data.
-
-## How to run app
-
-In the project directory, you should run script:
-
-`npm run start`
